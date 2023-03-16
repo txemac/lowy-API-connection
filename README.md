@@ -1,3 +1,4 @@
+[![CI](https://github.com/mrmilu/python-coding-callenge/actions/workflows/ci.yml/badge.svg)](https://github.com/mrmilu/python-coding-callenge/actions/workflows/ci.yml)
 # Python Software Engineer - Home coding chanllenge
 Welcome to our home coding challenge! We appreciate you taking the time to complete this challenge as part of our selection process. The purpose of this challenge is to assess your skills and abilities as a developer, and to get a sense of how you approach and solve problems.
 

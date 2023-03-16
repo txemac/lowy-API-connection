@@ -54,13 +54,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Build the Stack
-        run:  docker-compose -f local.yml build
+        run:  docker-compose build
 
-      - name: Run DB Migrations
-        run:  docker-compose -f local.yml run --rm django python manage.py migrate
-
-      - name: Run Django Tests
-        run:  docker-compose -f local.yml run django pytest
+      - name: Run pytest
+        run:  docker-compose run web-server python -m  pytest
 
       - name: Tear down the Stack
-        run:  docker-compose -f local.yml down
+        run:  docker-compose down
