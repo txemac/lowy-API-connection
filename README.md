@@ -37,6 +37,7 @@ Acceptance Criteria:
 - The new endpoint should be called "POST /users"
 - The endpoint should accept a JSON payload containing user information, including the user's name, email, and a list of Asian countries the user wants to subscribe to.
 - If the user already exists, the endpoint should return a 409 Conflict error.
+- The user created should be and `id`. This field will be a int starting by 1.
 - If the payload is missing any required fields, the endpoint should return a 400 Bad Request error.
 - If the user is successfully created, the endpoint should return a 201 Created status code and the user's ID in the response body.
 
@@ -118,6 +119,9 @@ We will assess the frequency and granularity of the candidate's commits, and whe
 We will assess the quality of the candidate's commit messages, including whether they are descriptive and explain the changes made in each commit.
 
 We will assess whether the candidate is using branching and merging effectively to manage the development process, and whether they are following established best practices for Git workflow or a similar brancking well-tested branching system.
+
+## Adherence to Codebase Standards and Consistency
+We will evaluate the candidate's ability to follow and maintain the existing codebase standards and ensure consistency throughout their work. This includes adhering to the project's coding style, using established design patterns, and maintaining the overall structure of the codebase.
 
 ### Documentation
 We will assess the quality of the candidate's documentation, including whether it is clear, concise and comprehensive, and whether it provides useful information for other developers who may be working on the code in the future.
