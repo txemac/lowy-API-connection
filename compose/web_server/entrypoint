@@ -4,8 +4,8 @@ set -o errexit
 set -o pipefail
 set -o nounset
 
-echo 'Runing web server...'
+echo 'Running web server...'
 
-# your code here
+exec uvicorn src.main:api --host 0.0.0.0 --port 8000 --reload
 
 exec "$@"

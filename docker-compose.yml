@@ -9,7 +9,7 @@ services:
     container_name: web_server
     platform: linux/x86_64
     volumes:
-      - .:/app:z
+      - ".:/app:z"
     ports:
       - "8000:8000"
     command: /start

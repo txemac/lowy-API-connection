@@ -9,6 +9,7 @@
 
 # virtualenv
 venv/
+env/
 
 # Unit test / coverage reports
 .coverage

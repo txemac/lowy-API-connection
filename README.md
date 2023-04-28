@@ -144,11 +144,20 @@ The only branch provided in the repository is *main*. However, you are free to c
 
 ### Commands
 Run the project
+
 ```bash
 docker compose up --build
 ```
 
-Test with pytest
-```bash
-docker compose run --rm web-server python -m pytest
-```
+
+After run, you can check the health in:
+
+http://127.0.0.1:8000/health
+
+And view the API documentation in:
+
+http://127.0.0.1:8000/redoc
+
+or swagger in:
+
+http://127.0.0.1:8000/docs
