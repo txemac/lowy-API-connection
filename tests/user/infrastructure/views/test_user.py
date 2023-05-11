@@ -1,3 +1,4 @@
+from typing import Dict
 from uuid import uuid4
 
 from sqlmodel import Session
@@ -10,6 +11,7 @@ from src.user.application.get_user_by_id import get_user_by_id
 from src.user.domain.user import User
 from src.user.domain.user_repository import UserRepository
 from tests.utils import assert_dicts
+from tests.utils import assert_lists
 
 
 def test_user_create_ok(
@@ -54,6 +56,16 @@ def test_user_get_one_ok(
     )
     assert response.status_code == status.HTTP_200_OK
     assert_dicts(original=response.json(), expected=new_user.dict())
+
+
+def test_user_get_one_not_exists(
+        client: TestClient,
+) -> None:
+    response = client.get(
+        url=f"/users/{uuid4()}",
+    )
+    assert response.status_code == status.HTTP_404_NOT_FOUND
+    assert response.json().get("detail") == messages.USER_NOT_FOUND
 
 
 def test_user_add_country_ok(
@@ -148,7 +160,6 @@ def test_user_remove_country_not_exists(
 def test_user_remove_country_user_id_not_exists(
         client: TestClient,
         db_sql: Session,
-        user_repository: UserRepository,
         country_australia: Country,
 ) -> None:
     response = client.post(
@@ -161,7 +172,6 @@ def test_user_remove_country_user_id_not_exists(
 def test_user_remove_country_country_id_not_exists(
         client: TestClient,
         db_sql: Session,
-        user_repository: UserRepository,
         new_user: User,
 ) -> None:
     response = client.post(
@@ -169,3 +179,37 @@ def test_user_remove_country_country_id_not_exists(
     )
     assert response.status_code == status.HTTP_404_NOT_FOUND
     assert response.json().get("detail") == messages.COUNTRY_NOT_FOUND
+
+
+def test_user_get_countries_ok(
+        client: TestClient,
+        new_user: User,
+        country_cambodia: Country,
+        country_vietnam: Country,
+        mock_read_lowy_url: Dict,
+) -> None:
+    response = client.get(
+        url=f"/users/{new_user.id}/countries",
+    )
+    assert response.status_code == status.HTTP_200_OK
+    expected = [
+        dict(
+            **country_cambodia.dict(),
+            **mock_read_lowy_url.get(country_cambodia.name),
+        ),
+        dict(
+            **country_vietnam.dict(),
+            **mock_read_lowy_url.get(country_vietnam.name),
+        ),
+    ]
+    assert_lists(original=response.json(), expected=expected)
+
+
+def test_user_get_countries_user_id_not_exists(
+        client: TestClient,
+) -> None:
+    response = client.get(
+        url=f"/users/{uuid4()}/countries",
+    )
+    assert response.status_code == status.HTTP_404_NOT_FOUND
+    assert response.json().get("detail") == messages.USER_NOT_FOUND

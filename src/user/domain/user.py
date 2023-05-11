@@ -11,7 +11,7 @@ from sqlmodel import Relationship
 from sqlmodel import SQLModel
 
 from src.country.domain.country import Country
-from src.country.domain.user_country_link import UserCountryLink
+from src.user.domain.user_country_link import UserCountryLink
 
 
 class UserCreate(SQLModel):

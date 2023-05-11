@@ -1,3 +1,5 @@
+from typing import List
+
 from fastapi import APIRouter
 from fastapi import Depends
 from fastapi import HTTPException
@@ -8,6 +10,8 @@ from starlette import status
 from src import messages
 from src.country.application.get_country_by_id import get_country_by_id
 from src.country.domain.country import Country
+from src.country.domain.country import CountryWithLowyInfo
+from src.country.infrastructure.services.lowy_country_service import get_info_countries
 from src.database import db_sql_session
 from src.depends import get_user_repository
 from src.user.application.check_email_is_used import check_email_is_used
@@ -102,3 +106,21 @@ def remove_country(
     user_repository.remove_country(db_sql, user=user, country=country)
 
     return Response(status_code=status.HTTP_204_NO_CONTENT)
+
+
+@users_router.get(
+    path="/{user_id}/countries",
+    name="Get user's countries",
+    description="Get full info about countries user have subscribed to.",
+    status_code=status.HTTP_200_OK,
+    response_model=List[CountryWithLowyInfo],
+    responses={
+        404: {"description": messages.USER_NOT_FOUND},
+    },
+)
+def get_countries(
+        db_sql: Session = Depends(db_sql_session),
+        user: User = Depends(get_user_by_id),
+) -> List[CountryWithLowyInfo]:
+    lowy_info = get_info_countries()
+    return [CountryWithLowyInfo(**country.dict(), **lowy_info[country.name]) for country in user.countries]

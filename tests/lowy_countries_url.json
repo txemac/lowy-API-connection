@@ -1,0 +1,2374 @@
+{
+  "countries": [
+    {
+      "id": "AU",
+      "name": "Australia",
+      "slug": "australia",
+      "href": "/countries/australia/",
+      "power": [
+        {
+          "c": "AU",
+          "year": 2023,
+          "gap": 7.03,
+          "expected": 23.9,
+          "resources": 22.32,
+          "influence": 41.45,
+          "trend": 0.25,
+          "change": 0,
+          "rank": 2
+        },
+        {
+          "c": "AU",
+          "year": 2021,
+          "rank": 2,
+          "gap": 6.8,
+          "expected": 24,
+          "resources": 22.8,
+          "influence": 40.6,
+          "trend": -0.854,
+          "change": 0
+        },
+        {
+          "c": "AU",
+          "year": 2020,
+          "rank": 2,
+          "gap": 7.6,
+          "expected": 24.8,
+          "resources": 23.1,
+          "influence": 43.9,
+          "trend": 1.729,
+          "change": 1
+        },
+        {
+          "c": "AU",
+          "year": 2019,
+          "rank": 3,
+          "gap": 5.9,
+          "expected": 25.4,
+          "resources": 23.3,
+          "influence": 41.1,
+          "trend": -1.274,
+          "change": -1
+        }
+      ],
+      "latitude": -25,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 30.93,
+          "rank": 6,
+          "trend": 0.1132,
+          "pretrend": 0.0037,
+          "m": 0,
+          "c": "AU"
+        },
+        {
+          "year": 2019,
+          "score": 31.332,
+          "rank": 7,
+          "trend": -0.181763,
+          "pretrend": -0.005768,
+          "m": 0,
+          "c": "AU"
+        },
+        {
+          "year": 2020,
+          "score": 32.44472,
+          "rank": 6,
+          "trend": 1.11272,
+          "pretrend": 0.035514,
+          "change": 1,
+          "m": 0,
+          "c": "AU"
+        },
+        {
+          "year": 2021,
+          "score": 30.8169,
+          "rank": 6,
+          "trend": -1.6279,
+          "pretrend": -0.0502,
+          "m": 0,
+          "c": "AU"
+        }
+      ]
+    },
+    {
+      "id": "BA",
+      "name": "Bangladesh",
+      "slug": "bangladesh",
+      "href": "/countries/bangladesh/",
+      "power": [
+        {
+          "c": "BA",
+          "year": 2023,
+          "gap": -1.72,
+          "expected": 10.79,
+          "resources": 7.99,
+          "influence": 10.4,
+          "trend": -0.01,
+          "change": -2,
+          "rank": 17
+        },
+        {
+          "c": "BA",
+          "year": 2021,
+          "rank": 15,
+          "gap": -1.7,
+          "expected": 11.1,
+          "resources": 8.6,
+          "influence": 10.3,
+          "trend": 0.944,
+          "change": 3
+        },
+        {
+          "c": "BA",
+          "year": 2020,
+          "rank": 18,
+          "gap": -2.7,
+          "expected": 11.8,
+          "resources": 9.1,
+          "influence": 9.3,
+          "trend": -0.39,
+          "change": -2
+        },
+        {
+          "c": "BA",
+          "year": 2019,
+          "rank": 17,
+          "gap": -2.3,
+          "expected": 11.9,
+          "resources": 8.7,
+          "influence": 10.8,
+          "trend": -0.127,
+          "change": 0
+        }
+      ],
+      "latitude": 24.0356,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 9.0742,
+          "rank": 19,
+          "trend": -0.2994,
+          "pretrend": -0.0319,
+          "m": 0,
+          "c": "BA"
+        },
+        {
+          "year": 2019,
+          "score": 9.683323,
+          "rank": 18,
+          "trend": 0.641195,
+          "pretrend": 0.070912,
+          "m": 0,
+          "c": "BA"
+        },
+        {
+          "year": 2020,
+          "score": 9.161295,
+          "rank": 18,
+          "trend": -0.522028,
+          "pretrend": -0.05391,
+          "m": 0,
+          "c": "BA"
+        },
+        {
+          "year": 2021,
+          "score": 9.3737,
+          "rank": 19,
+          "trend": 0.2124,
+          "pretrend": 0.0232,
+          "change": -1,
+          "m": 0,
+          "c": "BA"
+        }
+      ]
+    },
+    {
+      "id": "BR",
+      "name": "Brunei",
+      "slug": "brunei",
+      "href": "/countries/brunei/",
+      "power": [
+        {
+          "c": "BR",
+          "year": 2023,
+          "gap": -0.68,
+          "expected": 10.66,
+          "resources": 7.85,
+          "influence": 12.58,
+          "trend": 0.04,
+          "change": -1,
+          "rank": 14
+        },
+        {
+          "c": "BR",
+          "year": 2021,
+          "rank": 13,
+          "gap": -0.7,
+          "expected": 10.3,
+          "resources": 7.8,
+          "influence": 11.8,
+          "trend": 0.696,
+          "change": 1
+        },
+        {
+          "c": "BR",
+          "year": 2020,
+          "rank": 14,
+          "gap": -1.4,
+          "expected": 10.5,
+          "resources": 7.7,
+          "influence": 10.9,
+          "trend": 0.365,
+          "change": -1
+        },
+        {
+          "c": "BR",
+          "year": 2019,
+          "rank": 14,
+          "gap": -1.8,
+          "expected": 10.9,
+          "resources": 7.6,
+          "influence": 11,
+          "trend": -0.592,
+          "change": -1
+        }
+      ],
+      "latitude": 4.47491,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 9.9777,
+          "rank": 18,
+          "trend": 0.3736,
+          "pretrend": 0.0389,
+          "m": 0,
+          "c": "BR"
+        },
+        {
+          "year": 2019,
+          "score": 9.148627,
+          "rank": 19,
+          "trend": 0.151553,
+          "pretrend": 0.016845,
+          "m": 0,
+          "c": "BR"
+        },
+        {
+          "year": 2020,
+          "score": 9.114946,
+          "rank": 19,
+          "trend": -0.033682,
+          "pretrend": -0.003682,
+          "m": 0,
+          "c": "BR"
+        },
+        {
+          "year": 2021,
+          "score": 9.6041,
+          "rank": 18,
+          "trend": 0.4892,
+          "pretrend": 0.0537,
+          "change": 1,
+          "m": 0,
+          "c": "BR"
+        }
+      ]
+    },
+    {
+      "id": "CB",
+      "name": "Cambodia",
+      "slug": "cambodia",
+      "href": "/countries/cambodia/",
+      "power": [
+        {
+          "c": "CB",
+          "year": 2023,
+          "gap": 0.7,
+          "expected": 7.11,
+          "resources": 3.96,
+          "influence": 12.49,
+          "trend": 1.03,
+          "change": 1,
+          "rank": 11
+        },
+        {
+          "c": "CB",
+          "year": 2021,
+          "rank": 12,
+          "gap": -0.3,
+          "expected": 7.4,
+          "resources": 4.7,
+          "influence": 10.1,
+          "trend": -0.073,
+          "change": -1
+        },
+        {
+          "c": "CB",
+          "year": 2020,
+          "rank": 11,
+          "gap": -0.3,
+          "expected": 7.6,
+          "resources": 4.5,
+          "influence": 10.8,
+          "trend": 0.54,
+          "change": 0
+        },
+        {
+          "c": "CB",
+          "year": 2019,
+          "rank": 11,
+          "gap": -0.8,
+          "expected": 8.5,
+          "resources": 5.1,
+          "influence": 11,
+          "trend": -0.206,
+          "change": 0
+        }
+      ],
+      "latitude": 12.7965,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 7.8001,
+          "rank": 20,
+          "trend": 0.6982,
+          "pretrend": 0.0983,
+          "change": 2,
+          "m": 0,
+          "c": "CB"
+        },
+        {
+          "year": 2019,
+          "score": 7.742345,
+          "rank": 22,
+          "trend": 0.6984,
+          "pretrend": 0.099149,
+          "m": 0,
+          "c": "CB"
+        },
+        {
+          "year": 2020,
+          "score": 7.339876,
+          "rank": 22,
+          "trend": -0.402469,
+          "pretrend": -0.051983,
+          "m": 0,
+          "c": "CB"
+        },
+        {
+          "year": 2021,
+          "score": 7.1019,
+          "rank": 22,
+          "trend": -0.238,
+          "pretrend": -0.0324,
+          "m": 0,
+          "c": "CB"
+        }
+      ]
+    },
+    {
+      "id": "CN",
+      "name": "China",
+      "slug": "china",
+      "href": "/countries/china/",
+      "power": [
+        {
+          "c": "CN",
+          "year": 2023,
+          "gap": 0.03,
+          "expected": 72.46,
+          "resources": 75.41,
+          "influence": 68.91,
+          "trend": -0.5,
+          "change": -1,
+          "rank": 12
+        },
+        {
+          "c": "CN",
+          "year": 2021,
+          "rank": 11,
+          "gap": 0.5,
+          "expected": 74.1,
+          "resources": 77.5,
+          "influence": 71.1,
+          "trend": 1.105,
+          "change": 1
+        },
+        {
+          "c": "CN",
+          "year": 2020,
+          "rank": 12,
+          "gap": -0.6,
+          "expected": 76.6,
+          "resources": 79.1,
+          "influence": 72.3,
+          "trend": 0.271,
+          "change": 8
+        },
+        {
+          "c": "CN",
+          "year": 2019,
+          "rank": 12,
+          "gap": -0.8,
+          "expected": 76.8,
+          "resources": 79,
+          "influence": 72.2,
+          "trend": 2.198,
+          "change": 1
+        }
+      ],
+      "latitude": 34,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 72.4868,
+          "rank": 2,
+          "trend": -2.1021,
+          "pretrend": -0.0282,
+          "m": 0,
+          "c": "CN"
+        },
+        {
+          "year": 2019,
+          "score": 75.946338,
+          "rank": 2,
+          "trend": 1.431134,
+          "pretrend": 0.019206,
+          "m": 0,
+          "c": "CN"
+        },
+        {
+          "year": 2020,
+          "score": 76.067437,
+          "rank": 2,
+          "trend": 0.121099,
+          "pretrend": 0.001595,
+          "m": 0,
+          "c": "CN"
+        },
+        {
+          "year": 2021,
+          "score": 74.5889,
+          "rank": 2,
+          "trend": -1.4786,
+          "pretrend": -0.0194,
+          "m": 0,
+          "c": "CN"
+        }
+      ]
+    },
+    {
+      "id": "IN",
+      "name": "India",
+      "slug": "india",
+      "href": "/countries/india/",
+      "power": [
+        {
+          "c": "IN",
+          "year": 2023,
+          "gap": -2.84,
+          "expected": 39.15,
+          "resources": 39,
+          "influence": 33.03,
+          "trend": 0.17,
+          "change": 1,
+          "rank": 21
+        },
+        {
+          "c": "IN",
+          "year": 2021,
+          "rank": 22,
+          "gap": -3,
+          "expected": 40.7,
+          "resources": 41,
+          "influence": 33.6,
+          "trend": -1.324,
+          "change": -7
+        },
+        {
+          "c": "IN",
+          "year": 2020,
+          "rank": 15,
+          "gap": -1.7,
+          "expected": 41.4,
+          "resources": 41,
+          "influence": 38.1,
+          "trend": -0.488,
+          "change": 2
+        },
+        {
+          "c": "IN",
+          "year": 2019,
+          "rank": 13,
+          "gap": -1.2,
+          "expected": 42.2,
+          "resources": 41.5,
+          "influence": 40.4,
+          "trend": 1.09,
+          "change": 1
+        }
+      ],
+      "latitude": 22,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 36.312,
+          "rank": 4,
+          "trend": -1.3614,
+          "pretrend": -0.0361,
+          "m": 0,
+          "c": "IN"
+        },
+        {
+          "year": 2019,
+          "score": 41.022167,
+          "rank": 4,
+          "trend": -0.060236,
+          "pretrend": -0.001466,
+          "m": 0,
+          "c": "IN"
+        },
+        {
+          "year": 2020,
+          "score": 39.687451,
+          "rank": 4,
+          "trend": -1.334717,
+          "pretrend": -0.032536,
+          "m": 0,
+          "c": "IN"
+        },
+        {
+          "year": 2021,
+          "score": 37.6734,
+          "rank": 4,
+          "trend": -2.014,
+          "pretrend": -0.0507,
+          "m": 0,
+          "c": "IN"
+        }
+      ]
+    },
+    {
+      "id": "ID",
+      "name": "Indonesia",
+      "slug": "indonesia",
+      "href": "/countries/indonesia/",
+      "power": [
+        {
+          "c": "ID",
+          "year": 2023,
+          "gap": 1.65,
+          "expected": 17.77,
+          "resources": 15.62,
+          "influence": 24.06,
+          "trend": 0.44,
+          "change": 1,
+          "rank": 9
+        },
+        {
+          "c": "ID",
+          "year": 2021,
+          "rank": 10,
+          "gap": 1.2,
+          "expected": 18.2,
+          "resources": 16.4,
+          "influence": 23,
+          "trend": 0.434,
+          "change": 0
+        },
+        {
+          "c": "ID",
+          "year": 2020,
+          "rank": 10,
+          "gap": 0.8,
+          "expected": 19.1,
+          "resources": 17,
+          "influence": 23.5,
+          "trend": -0.158,
+          "change": 2
+        },
+        {
+          "c": "ID",
+          "year": 2019,
+          "rank": 10,
+          "gap": 0.9,
+          "expected": 19.6,
+          "resources": 17.1,
+          "influence": 24.8,
+          "trend": 1.91,
+          "change": 1
+        }
+      ],
+      "latitude": -2.93042,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 19.4209,
+          "rank": 9,
+          "trend": 0.0442,
+          "pretrend": 0.0023,
+          "m": 0,
+          "c": "ID"
+        },
+        {
+          "year": 2019,
+          "score": 20.562988,
+          "rank": 11,
+          "trend": 0.735328,
+          "pretrend": 0.037086,
+          "m": 0,
+          "c": "ID"
+        },
+        {
+          "year": 2020,
+          "score": 19.909798,
+          "rank": 11,
+          "trend": -0.65319,
+          "pretrend": -0.031765,
+          "m": 0,
+          "c": "ID"
+        },
+        {
+          "year": 2021,
+          "score": 19.3768,
+          "rank": 9,
+          "trend": -0.533,
+          "pretrend": -0.0268,
+          "change": 2,
+          "m": 0,
+          "c": "ID"
+        }
+      ]
+    },
+    {
+      "id": "JP",
+      "name": "Japan",
+      "slug": "japan",
+      "href": "/countries/japan/",
+      "power": [
+        {
+          "c": "JP",
+          "year": 2023,
+          "gap": 10.1,
+          "expected": 27.14,
+          "resources": 25.87,
+          "influence": 51.15,
+          "trend": -0.4,
+          "change": 0,
+          "rank": 1
+        },
+        {
+          "c": "JP",
+          "year": 2021,
+          "rank": 1,
+          "gap": 10.5,
+          "expected": 28.2,
+          "resources": 27.3,
+          "influence": 52.6,
+          "trend": -0.942,
+          "change": 0
+        },
+        {
+          "c": "JP",
+          "year": 2020,
+          "rank": 1,
+          "gap": 11.4,
+          "expected": 29.6,
+          "resources": 28.3,
+          "influence": 56.6,
+          "trend": -0.355,
+          "change": 0
+        },
+        {
+          "c": "JP",
+          "year": 2019,
+          "rank": 1,
+          "gap": 11.8,
+          "expected": 30.7,
+          "resources": 29.1,
+          "influence": 58.9,
+          "trend": 0.784,
+          "change": 1
+        }
+      ],
+      "latitude": 36.2048,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 37.2434,
+          "rank": 3,
+          "trend": -1.4341,
+          "pretrend": -0.0371,
+          "m": 0,
+          "c": "JP"
+        },
+        {
+          "year": 2019,
+          "score": 42.521539,
+          "rank": 3,
+          "trend": -0.30749,
+          "pretrend": -0.007179,
+          "m": 0,
+          "c": "JP"
+        },
+        {
+          "year": 2020,
+          "score": 41.036047,
+          "rank": 3,
+          "trend": -1.485492,
+          "pretrend": -0.034935,
+          "m": 0,
+          "c": "JP"
+        },
+        {
+          "year": 2021,
+          "score": 38.6775,
+          "rank": 3,
+          "trend": -2.3585,
+          "pretrend": -0.0575,
+          "m": 0,
+          "c": "JP"
+        }
+      ]
+    },
+    {
+      "id": "NK",
+      "name": "North Korea",
+      "slug": "north-korea",
+      "href": "/countries/north-korea/",
+      "power": [
+        {
+          "c": "NK",
+          "year": 2023,
+          "gap": -7.21,
+          "expected": 17.85,
+          "resources": 15.71,
+          "influence": 4.44,
+          "trend": 0.06,
+          "change": 0,
+          "rank": 26
+        },
+        {
+          "c": "NK",
+          "year": 2021,
+          "rank": 26,
+          "gap": -7.3,
+          "expected": 18.8,
+          "resources": 17,
+          "influence": 4.7,
+          "trend": -0.137,
+          "change": 0
+        },
+        {
+          "c": "NK",
+          "year": 2020,
+          "rank": 26,
+          "gap": -7.1,
+          "expected": 19.5,
+          "resources": 17.3,
+          "influence": 6.2,
+          "trend": -0.428,
+          "change": -1
+        },
+        {
+          "c": "NK",
+          "year": 2019,
+          "rank": 24,
+          "gap": -6.7,
+          "expected": 20.7,
+          "resources": 18.2,
+          "influence": 8.8,
+          "trend": 0.195,
+          "change": 0
+        }
+      ],
+      "latitude": 40.2286,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 10.6365,
+          "rank": 17,
+          "trend": -0.8442,
+          "pretrend": -0.0735,
+          "m": 0,
+          "c": "NK"
+        },
+        {
+          "year": 2019,
+          "score": 13.976771,
+          "rank": 16,
+          "trend": 1.342036,
+          "pretrend": 0.106218,
+          "change": 1,
+          "m": 0,
+          "c": "NK"
+        },
+        {
+          "year": 2020,
+          "score": 12.330677,
+          "rank": 17,
+          "trend": -1.646094,
+          "pretrend": -0.117774,
+          "change": -1,
+          "m": 0,
+          "c": "NK"
+        },
+        {
+          "year": 2021,
+          "score": 11.4807,
+          "rank": 17,
+          "trend": -0.85,
+          "pretrend": -0.0689,
+          "m": 0,
+          "c": "NK"
+        }
+      ]
+    },
+    {
+      "id": "SK",
+      "name": "South Korea",
+      "slug": "south-korea",
+      "href": "/countries/south-korea/",
+      "power": [
+        {
+          "c": "SK",
+          "year": 2023,
+          "gap": 3.89,
+          "expected": 25.65,
+          "resources": 24.23,
+          "influence": 36.01,
+          "trend": -0.3,
+          "change": 0,
+          "rank": 4
+        },
+        {
+          "c": "SK",
+          "year": 2021,
+          "rank": 4,
+          "gap": 4.2,
+          "expected": 25.8,
+          "resources": 24.8,
+          "influence": 36.4,
+          "trend": -1.056,
+          "change": 0
+        },
+        {
+          "c": "SK",
+          "year": 2020,
+          "rank": 4,
+          "gap": 5.2,
+          "expected": 26.4,
+          "resources": 24.8,
+          "influence": 39.9,
+          "trend": -0.678,
+          "change": 0
+        },
+        {
+          "c": "SK",
+          "year": 2019,
+          "rank": 2,
+          "gap": 5.9,
+          "expected": 26.8,
+          "resources": 24.8,
+          "influence": 42.4,
+          "trend": 0.536,
+          "change": 1
+        }
+      ],
+      "latitude": 35.9078,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 29.531,
+          "rank": 7,
+          "trend": -0.4844,
+          "pretrend": -0.0161,
+          "m": 0,
+          "c": "SK"
+        },
+        {
+          "year": 2019,
+          "score": 32.727827,
+          "rank": 6,
+          "trend": 0.047803,
+          "pretrend": 0.001463,
+          "m": 0,
+          "c": "SK"
+        },
+        {
+          "year": 2020,
+          "score": 31.605272,
+          "rank": 7,
+          "trend": -1.122555,
+          "pretrend": -0.0343,
+          "change": -1,
+          "m": 0,
+          "c": "SK"
+        },
+        {
+          "year": 2021,
+          "score": 30.0154,
+          "rank": 7,
+          "trend": -1.5899,
+          "pretrend": -0.0503,
+          "m": 0,
+          "c": "SK"
+        }
+      ]
+    },
+    {
+      "id": "LA",
+      "name": "Laos",
+      "slug": "laos",
+      "href": "/countries/laos/",
+      "power": [
+        {
+          "c": "LA",
+          "year": 2023,
+          "gap": -0.58,
+          "expected": 6.96,
+          "resources": 3.8,
+          "influence": 9.53,
+          "trend": 0.35,
+          "change": 1,
+          "rank": 13
+        },
+        {
+          "c": "LA",
+          "year": 2021,
+          "rank": 14,
+          "gap": -0.9,
+          "expected": 7,
+          "resources": 4.2,
+          "influence": 8.3,
+          "trend": 0.204,
+          "change": -1
+        },
+        {
+          "c": "LA",
+          "year": 2020,
+          "rank": 13,
+          "gap": -1.1,
+          "expected": 7.2,
+          "resources": 4.1,
+          "influence": 8.5,
+          "trend": 0.793,
+          "change": 1
+        },
+        {
+          "c": "LA",
+          "year": 2019,
+          "rank": 16,
+          "gap": -1.9,
+          "expected": 8.4,
+          "resources": 4.9,
+          "influence": 8.4,
+          "trend": -0.614,
+          "change": -1
+        }
+      ],
+      "latitude": 20.5869,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 6.3785,
+          "rank": 23,
+          "trend": 0.3372,
+          "pretrend": 0.0558,
+          "m": 0,
+          "c": "LA"
+        },
+        {
+          "year": 2019,
+          "score": 6.444855,
+          "rank": 23,
+          "trend": 0.571462,
+          "pretrend": 0.097297,
+          "change": 1,
+          "m": 0,
+          "c": "LA"
+        },
+        {
+          "year": 2020,
+          "score": 6.043041,
+          "rank": 23,
+          "trend": -0.401814,
+          "pretrend": -0.062347,
+          "m": 0,
+          "c": "LA"
+        },
+        {
+          "year": 2021,
+          "score": 6.0413,
+          "rank": 23,
+          "trend": -0.0018,
+          "pretrend": -0.0003,
+          "m": 0,
+          "c": "LA"
+        }
+      ]
+    },
+    {
+      "id": "MA",
+      "name": "Malaysia",
+      "slug": "malaysia",
+      "href": "/countries/malaysia/",
+      "power": [
+        {
+          "c": "MA",
+          "year": 2023,
+          "gap": 3.58,
+          "expected": 14.41,
+          "resources": 11.95,
+          "influence": 25.37,
+          "trend": 0.62,
+          "change": 0,
+          "rank": 6
+        },
+        {
+          "c": "MA",
+          "year": 2021,
+          "rank": 6,
+          "gap": 3,
+          "expected": 15.3,
+          "resources": 13.3,
+          "influence": 24.4,
+          "trend": -0.989,
+          "change": 0
+        },
+        {
+          "c": "MA",
+          "year": 2020,
+          "rank": 6,
+          "gap": 4,
+          "expected": 16.7,
+          "resources": 14.4,
+          "influence": 28.4,
+          "trend": -1.714,
+          "change": -1
+        },
+        {
+          "c": "MA",
+          "year": 2019,
+          "rank": 4,
+          "gap": 5.7,
+          "expected": 17.1,
+          "resources": 14.3,
+          "influence": 33.1,
+          "trend": 1.725,
+          "change": 1
+        }
+      ],
+      "latitude": 4.31277,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 17.9899,
+          "rank": 11,
+          "trend": -0.2922,
+          "pretrend": -0.016,
+          "m": 0,
+          "c": "MA"
+        },
+        {
+          "year": 2019,
+          "score": 22.778154,
+          "rank": 9,
+          "trend": 1.241738,
+          "pretrend": 0.057658,
+          "m": 0,
+          "c": "MA"
+        },
+        {
+          "year": 2020,
+          "score": 20.654911,
+          "rank": 10,
+          "trend": -2.123243,
+          "pretrend": -0.093214,
+          "change": -1,
+          "m": 0,
+          "c": "MA"
+        },
+        {
+          "year": 2021,
+          "score": 18.2821,
+          "rank": 11,
+          "trend": -2.3728,
+          "pretrend": -0.1149,
+          "change": -1,
+          "m": 0,
+          "c": "MA"
+        }
+      ]
+    },
+    {
+      "id": "MO",
+      "name": "Mongolia",
+      "slug": "mongolia",
+      "href": "/countries/mongolia/",
+      "power": [
+        {
+          "c": "MO",
+          "year": 2023,
+          "gap": -2.51,
+          "expected": 7.51,
+          "resources": 4.4,
+          "influence": 5.74,
+          "trend": -0.37,
+          "change": 0,
+          "rank": 19
+        },
+        {
+          "c": "MO",
+          "year": 2021,
+          "rank": 19,
+          "gap": -2.1,
+          "expected": 7.8,
+          "resources": 5.1,
+          "influence": 6.4,
+          "trend": 0.554,
+          "change": 0
+        },
+        {
+          "c": "MO",
+          "year": 2020,
+          "rank": 19,
+          "gap": -2.7,
+          "expected": 8.3,
+          "resources": 5.3,
+          "influence": 6.1,
+          "trend": 0.344,
+          "change": -1
+        },
+        {
+          "c": "MO",
+          "year": 2019,
+          "rank": 19,
+          "gap": -3,
+          "expected": 9.2,
+          "resources": 5.8,
+          "influence": 6.7,
+          "trend": -0.736,
+          "change": -1
+        }
+      ],
+      "latitude": 46.5,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 5.0007,
+          "rank": 24,
+          "trend": -0.693,
+          "pretrend": -0.1217,
+          "m": 0,
+          "c": "MO"
+        },
+        {
+          "year": 2019,
+          "score": 6.182729,
+          "rank": 24,
+          "trend": 0.185757,
+          "pretrend": 0.030975,
+          "change": -1,
+          "m": 0,
+          "c": "MO"
+        },
+        {
+          "year": 2020,
+          "score": 5.649249,
+          "rank": 24,
+          "trend": -0.53348,
+          "pretrend": -0.086286,
+          "m": 0,
+          "c": "MO"
+        },
+        {
+          "year": 2021,
+          "score": 5.6938,
+          "rank": 24,
+          "trend": 0.0445,
+          "pretrend": 0.0079,
+          "m": 0,
+          "c": "MO"
+        }
+      ]
+    },
+    {
+      "id": "MY",
+      "name": "Myanmar",
+      "slug": "myanmar",
+      "href": "/countries/myanmar/",
+      "power": [
+        {
+          "c": "MY",
+          "year": 2023,
+          "gap": -1.27,
+          "expected": 8.76,
+          "resources": 5.77,
+          "influence": 9.61,
+          "trend": 0.69,
+          "change": 1,
+          "rank": 16
+        },
+        {
+          "c": "MY",
+          "year": 2021,
+          "rank": 17,
+          "gap": -2,
+          "expected": 9.4,
+          "resources": 6.8,
+          "influence": 8.2,
+          "trend": 0.127,
+          "change": -1
+        },
+        {
+          "c": "MY",
+          "year": 2020,
+          "rank": 16,
+          "gap": -2.1,
+          "expected": 10.8,
+          "resources": 7.9,
+          "influence": 9.6,
+          "trend": 0.42,
+          "change": -1
+        },
+        {
+          "c": "MY",
+          "year": 2019,
+          "rank": 18,
+          "gap": -2.5,
+          "expected": 11.4,
+          "resources": 8.2,
+          "influence": 9.8,
+          "trend": -0.697,
+          "change": -1
+        }
+      ],
+      "latitude": 21.9404,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 7.4976,
+          "rank": 22,
+          "trend": 0.09,
+          "pretrend": 0.0121,
+          "change": -1,
+          "m": 0,
+          "c": "MY"
+        },
+        {
+          "year": 2019,
+          "score": 8.906156,
+          "rank": 20,
+          "trend": 0.640559,
+          "pretrend": 0.077497,
+          "m": 0,
+          "c": "MY"
+        },
+        {
+          "year": 2020,
+          "score": 8.692861,
+          "rank": 20,
+          "trend": -0.213295,
+          "pretrend": -0.023949,
+          "m": 0,
+          "c": "MY"
+        },
+        {
+          "year": 2021,
+          "score": 7.4076,
+          "rank": 21,
+          "trend": -1.2852,
+          "pretrend": -0.1478,
+          "change": -1,
+          "m": 0,
+          "c": "MY"
+        }
+      ]
+    },
+    {
+      "id": "NP",
+      "name": "Nepal",
+      "slug": "nepal",
+      "href": "/countries/nepal/",
+      "power": [
+        {
+          "c": "NP",
+          "year": 2023,
+          "gap": -2.36,
+          "expected": 6.52,
+          "resources": 3.32,
+          "influence": 5.19,
+          "trend": -0.28,
+          "change": 0,
+          "rank": 18
+        },
+        {
+          "c": "NP",
+          "year": 2021,
+          "rank": 18,
+          "gap": -2.1,
+          "expected": 6.5,
+          "resources": 3.7,
+          "influence": 5.4,
+          "trend": 0.811,
+          "change": 4
+        },
+        {
+          "c": "NP",
+          "year": 2020,
+          "rank": 22,
+          "gap": -2.9,
+          "expected": 7.3,
+          "resources": 4.2,
+          "influence": 4.7,
+          "trend": 0.209,
+          "change": -3
+        },
+        {
+          "c": "NP",
+          "year": 2019,
+          "rank": 20,
+          "gap": -3.1,
+          "expected": 7.8,
+          "resources": 4.2,
+          "influence": 5.2,
+          "trend": -0.616,
+          "change": -1
+        }
+      ],
+      "latitude": 28.3929,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 4.1642,
+          "rank": 25,
+          "trend": -0.295,
+          "pretrend": -0.0662,
+          "m": 0,
+          "c": "NP"
+        },
+        {
+          "year": 2019,
+          "score": 4.688074,
+          "rank": 25,
+          "trend": 0.5683,
+          "pretrend": 0.137944,
+          "m": 0,
+          "c": "NP"
+        },
+        {
+          "year": 2020,
+          "score": 4.446212,
+          "rank": 25,
+          "trend": -0.241862,
+          "pretrend": -0.051591,
+          "m": 0,
+          "c": "NP"
+        },
+        {
+          "year": 2021,
+          "score": 4.4592,
+          "rank": 25,
+          "trend": 0.013,
+          "pretrend": 0.0029,
+          "m": 0,
+          "c": "NP"
+        }
+      ]
+    },
+    {
+      "id": "NZ",
+      "name": "New Zealand",
+      "slug": "new-zealand",
+      "href": "/countries/new-zealand/",
+      "power": [
+        {
+          "c": "NZ",
+          "year": 2023,
+          "gap": 0.85,
+          "expected": 15.98,
+          "resources": 13.66,
+          "influence": 20.7,
+          "trend": -0.78,
+          "change": -1,
+          "rank": 10
+        },
+        {
+          "c": "NZ",
+          "year": 2021,
+          "rank": 9,
+          "gap": 1.6,
+          "expected": 16.2,
+          "resources": 14.2,
+          "influence": 22.2,
+          "trend": -0.283,
+          "change": -1
+        },
+        {
+          "c": "NZ",
+          "year": 2020,
+          "rank": 8,
+          "gap": 1.9,
+          "expected": 17.1,
+          "resources": 14.8,
+          "influence": 24.2,
+          "trend": -0.137,
+          "change": -1
+        },
+        {
+          "c": "NZ",
+          "year": 2019,
+          "rank": 7,
+          "gap": 2.1,
+          "expected": 17.8,
+          "resources": 15.1,
+          "influence": 25.7,
+          "trend": 0.27,
+          "change": 0
+        }
+      ],
+      "latitude": -41.9615,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 16.8295,
+          "rank": 13,
+          "trend": -1.0111,
+          "pretrend": -0.0567,
+          "m": 0,
+          "c": "NZ"
+        },
+        {
+          "year": 2019,
+          "score": 19.863384,
+          "rank": 12,
+          "trend": 0.961303,
+          "pretrend": 0.050857,
+          "m": 0,
+          "c": "NZ"
+        },
+        {
+          "year": 2020,
+          "score": 19.009452,
+          "rank": 13,
+          "trend": -0.853932,
+          "pretrend": -0.04299,
+          "change": -1,
+          "m": 0,
+          "c": "NZ"
+        },
+        {
+          "year": 2021,
+          "score": 17.8407,
+          "rank": 13,
+          "trend": -1.1688,
+          "pretrend": -0.0615,
+          "m": 0,
+          "c": "NZ"
+        }
+      ]
+    },
+    {
+      "id": "PK",
+      "name": "Pakistan",
+      "slug": "pakistan",
+      "href": "/countries/pakistan/",
+      "power": [
+        {
+          "c": "PK",
+          "year": 2023,
+          "gap": -3.7,
+          "expected": 17.56,
+          "resources": 15.39,
+          "influence": 11.98,
+          "trend": -0.18,
+          "change": 0,
+          "rank": 24
+        },
+        {
+          "c": "PK",
+          "year": 2021,
+          "rank": 24,
+          "gap": -3.5,
+          "expected": 18.2,
+          "resources": 16.4,
+          "influence": 12.6,
+          "trend": -0.208,
+          "change": -1
+        },
+        {
+          "c": "PK",
+          "year": 2020,
+          "rank": 23,
+          "gap": -3.3,
+          "expected": 18.5,
+          "resources": 16.3,
+          "influence": 13.8,
+          "trend": 0.112,
+          "change": -2
+        },
+        {
+          "c": "PK",
+          "year": 2019,
+          "rank": 22,
+          "gap": -3.4,
+          "expected": 18.7,
+          "resources": 16.1,
+          "influence": 14.4,
+          "trend": -0.346,
+          "change": 0
+        }
+      ],
+      "latitude": 30,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 13.8567,
+          "rank": 15,
+          "trend": -0.8385,
+          "pretrend": -0.0571,
+          "m": 0,
+          "c": "PK"
+        },
+        {
+          "year": 2019,
+          "score": 15.31501,
+          "rank": 15,
+          "trend": -0.056432,
+          "pretrend": -0.003671,
+          "m": 0,
+          "c": "PK"
+        },
+        {
+          "year": 2020,
+          "score": 15.197497,
+          "rank": 15,
+          "trend": -0.117513,
+          "pretrend": -0.007673,
+          "m": 0,
+          "c": "PK"
+        },
+        {
+          "year": 2021,
+          "score": 14.6951,
+          "rank": 15,
+          "trend": -0.5024,
+          "pretrend": -0.0331,
+          "m": 0,
+          "c": "PK"
+        }
+      ]
+    },
+    {
+      "id": "PH",
+      "name": "Philippines",
+      "slug": "philippines",
+      "href": "/countries/philippines/",
+      "power": [
+        {
+          "c": "PH",
+          "year": 2023,
+          "gap": 1.8,
+          "expected": 10.96,
+          "resources": 8.18,
+          "influence": 18.37,
+          "trend": -0.08,
+          "change": 0,
+          "rank": 8
+        },
+        {
+          "c": "PH",
+          "year": 2021,
+          "rank": 8,
+          "gap": 1.9,
+          "expected": 11.3,
+          "resources": 8.8,
+          "influence": 18.4,
+          "trend": 0.545,
+          "change": 1
+        },
+        {
+          "c": "PH",
+          "year": 2020,
+          "rank": 9,
+          "gap": 1.3,
+          "expected": 12,
+          "resources": 9.3,
+          "influence": 18.3,
+          "trend": -0.224,
+          "change": -1
+        },
+        {
+          "c": "PH",
+          "year": 2019,
+          "rank": 8,
+          "gap": 1.6,
+          "expected": 12.2,
+          "resources": 9,
+          "influence": 19.5,
+          "trend": 0.18,
+          "change": 0
+        }
+      ],
+      "latitude": 14.5965,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 12.7629,
+          "rank": 16,
+          "trend": -0.3729,
+          "pretrend": -0.0284,
+          "m": 0,
+          "c": "PH"
+        },
+        {
+          "year": 2019,
+          "score": 13.735009,
+          "rank": 17,
+          "trend": 0.70221,
+          "pretrend": 0.05388,
+          "change": -1,
+          "m": 0,
+          "c": "PH"
+        },
+        {
+          "year": 2020,
+          "score": 13.337917,
+          "rank": 16,
+          "trend": -0.397092,
+          "pretrend": -0.028911,
+          "change": 1,
+          "m": 0,
+          "c": "PH"
+        },
+        {
+          "year": 2021,
+          "score": 13.1358,
+          "rank": 16,
+          "trend": -0.2021,
+          "pretrend": -0.0152,
+          "m": 0,
+          "c": "PH"
+        }
+      ]
+    },
+    {
+      "id": "RU",
+      "name": "Russia",
+      "slug": "russia",
+      "href": "/countries/russia/",
+      "power": [
+        {
+          "c": "RU",
+          "year": 2023,
+          "gap": -6.56,
+          "expected": 38.13,
+          "resources": 37.88,
+          "influence": 23.86,
+          "trend": -0.42,
+          "change": 0,
+          "rank": 25
+        },
+        {
+          "c": "RU",
+          "year": 2021,
+          "rank": 25,
+          "gap": -6.1,
+          "expected": 39.2,
+          "resources": 39.3,
+          "influence": 25.3,
+          "trend": 0.612,
+          "change": 0
+        },
+        {
+          "c": "RU",
+          "year": 2020,
+          "rank": 25,
+          "gap": -6.7,
+          "expected": 40.3,
+          "resources": 39.8,
+          "influence": 25.8,
+          "trend": 0.155,
+          "change": -1
+        },
+        {
+          "c": "RU",
+          "year": 2019,
+          "rank": 25,
+          "gap": -6.9,
+          "expected": 42.3,
+          "resources": 41.6,
+          "influence": 27.7,
+          "trend": -0.533,
+          "change": -1
+        }
+      ],
+      "latitude": 62,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 31.5718,
+          "rank": 5,
+          "trend": -1.4462,
+          "pretrend": -0.0438,
+          "m": 0,
+          "c": "RU"
+        },
+        {
+          "year": 2019,
+          "score": 35.35846,
+          "rank": 5,
+          "trend": 0.569298,
+          "pretrend": 0.016364,
+          "m": 0,
+          "c": "RU"
+        },
+        {
+          "year": 2020,
+          "score": 33.532265,
+          "rank": 5,
+          "trend": -1.826195,
+          "pretrend": -0.051648,
+          "m": 0,
+          "c": "RU"
+        },
+        {
+          "year": 2021,
+          "score": 33.018,
+          "rank": 5,
+          "trend": -0.5143,
+          "pretrend": -0.0153,
+          "m": 0,
+          "c": "RU"
+        }
+      ]
+    },
+    {
+      "id": "SG",
+      "name": "Singapore",
+      "slug": "singapore",
+      "href": "/countries/singapore/",
+      "power": [
+        {
+          "c": "SG",
+          "year": 2023,
+          "gap": 4.62,
+          "expected": 20.49,
+          "resources": 18.59,
+          "influence": 33.07,
+          "trend": -0.25,
+          "change": 0,
+          "rank": 3
+        },
+        {
+          "c": "SG",
+          "year": 2021,
+          "rank": 3,
+          "gap": 4.9,
+          "expected": 21.4,
+          "resources": 19.9,
+          "influence": 34,
+          "trend": -0.398,
+          "change": 0
+        },
+        {
+          "c": "SG",
+          "year": 2020,
+          "rank": 3,
+          "gap": 5.3,
+          "expected": 22.2,
+          "resources": 20.2,
+          "influence": 36.2,
+          "trend": 0.042,
+          "change": -1
+        },
+        {
+          "c": "SG",
+          "year": 2019,
+          "rank": 5,
+          "gap": 5.2,
+          "expected": 22.6,
+          "resources": 20.3,
+          "influence": 37.1,
+          "trend": -2.243,
+          "change": -1
+        }
+      ],
+      "latitude": 1.29276,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 25.1079,
+          "rank": 8,
+          "trend": -1.1339,
+          "pretrend": -0.0432,
+          "m": 0,
+          "c": "SG"
+        },
+        {
+          "year": 2019,
+          "score": 27.86409,
+          "rank": 8,
+          "trend": -0.216794,
+          "pretrend": -0.00772,
+          "m": 0,
+          "c": "SG"
+        },
+        {
+          "year": 2020,
+          "score": 27.429971,
+          "rank": 8,
+          "trend": -0.434119,
+          "pretrend": -0.01558,
+          "m": 0,
+          "c": "SG"
+        },
+        {
+          "year": 2021,
+          "score": 26.2419,
+          "rank": 8,
+          "trend": -1.1881,
+          "pretrend": -0.0433,
+          "m": 0,
+          "c": "SG"
+        }
+      ]
+    },
+    {
+      "id": "SL",
+      "name": "Sri Lanka",
+      "slug": "sri-lanka",
+      "href": "/countries/sri-lanka/",
+      "power": [
+        {
+          "c": "SL",
+          "year": 2023,
+          "gap": -2.6,
+          "expected": 10.12,
+          "resources": 7.26,
+          "influence": 7.83,
+          "trend": -0.32,
+          "change": 0,
+          "rank": 20
+        },
+        {
+          "c": "SL",
+          "year": 2021,
+          "rank": 20,
+          "gap": -2.3,
+          "expected": 10.9,
+          "resources": 8.4,
+          "influence": 8.8,
+          "trend": 0.51,
+          "change": 1
+        },
+        {
+          "c": "SL",
+          "year": 2020,
+          "rank": 21,
+          "gap": -2.8,
+          "expected": 11,
+          "resources": 8.2,
+          "influence": 8.3,
+          "trend": 0.489,
+          "change": 1
+        },
+        {
+          "c": "SL",
+          "year": 2019,
+          "rank": 21,
+          "gap": -3.3,
+          "expected": 11.8,
+          "resources": 8.6,
+          "influence": 8.5,
+          "trend": -0.074,
+          "change": 0
+        }
+      ],
+      "latitude": 7.23863,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 7.5174,
+          "rank": 21,
+          "trend": -1.0651,
+          "pretrend": -0.1241,
+          "change": -1,
+          "m": 0,
+          "c": "SL"
+        },
+        {
+          "year": 2019,
+          "score": 8.544572,
+          "rank": 21,
+          "trend": 0.445649,
+          "pretrend": 0.055026,
+          "m": 0,
+          "c": "SL"
+        },
+        {
+          "year": 2020,
+          "score": 8.255943,
+          "rank": 21,
+          "trend": -0.28863,
+          "pretrend": -0.033779,
+          "m": 0,
+          "c": "SL"
+        },
+        {
+          "year": 2021,
+          "score": 8.5825,
+          "rank": 20,
+          "trend": 0.3266,
+          "pretrend": 0.0396,
+          "change": 1,
+          "m": 0,
+          "c": "SL"
+        }
+      ]
+    },
+    {
+      "id": "TW",
+      "name": "Taiwan",
+      "slug": "taiwan",
+      "href": "/countries/taiwan/",
+      "power": [
+        {
+          "c": "TW",
+          "year": 2023,
+          "gap": -3.53,
+          "expected": 18.77,
+          "resources": 16.71,
+          "influence": 13.43,
+          "trend": -0.58,
+          "change": -2,
+          "rank": 23
+        },
+        {
+          "c": "TW",
+          "year": 2021,
+          "rank": 21,
+          "gap": -3,
+          "expected": 19.1,
+          "resources": 17.5,
+          "influence": 14.6,
+          "trend": -0.234,
+          "change": -1
+        },
+        {
+          "c": "TW",
+          "year": 2020,
+          "rank": 20,
+          "gap": -2.7,
+          "expected": 19.4,
+          "resources": 17.3,
+          "influence": 16,
+          "trend": 1.561,
+          "change": 3
+        },
+        {
+          "c": "TW",
+          "year": 2019,
+          "rank": 23,
+          "gap": -4.3,
+          "expected": 20.1,
+          "resources": 17.6,
+          "influence": 13.7,
+          "trend": -0.41,
+          "change": 0
+        }
+      ],
+      "latitude": 23.7401,
+      "asterisk": true,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 15.2355,
+          "rank": 14,
+          "trend": -0.9548,
+          "pretrend": -0.059,
+          "m": 0,
+          "c": "TW"
+        },
+        {
+          "year": 2019,
+          "score": 15.867666,
+          "rank": 14,
+          "trend": -0.5,
+          "pretrend": -0.029885,
+          "m": 0,
+          "c": "TW"
+        },
+        {
+          "year": 2020,
+          "score": 16.691468,
+          "rank": 14,
+          "trend": 0.823802,
+          "pretrend": 0.051917,
+          "m": 0,
+          "c": "TW"
+        },
+        {
+          "year": 2021,
+          "score": 16.1903,
+          "rank": 14,
+          "trend": -0.5011,
+          "pretrend": -0.03,
+          "m": 0,
+          "c": "TW"
+        }
+      ]
+    },
+    {
+      "id": "TH",
+      "name": "Thailand",
+      "slug": "thailand",
+      "href": "/countries/thailand/",
+      "power": [
+        {
+          "c": "TH",
+          "year": 2023,
+          "gap": 3.8,
+          "expected": 14.93,
+          "resources": 12.51,
+          "influence": 26.32,
+          "trend": 0.39,
+          "change": 0,
+          "rank": 5
+        },
+        {
+          "c": "TH",
+          "year": 2021,
+          "rank": 5,
+          "gap": 3.4,
+          "expected": 15.8,
+          "resources": 13.8,
+          "influence": 25.8,
+          "trend": -0.844,
+          "change": 0
+        },
+        {
+          "c": "TH",
+          "year": 2020,
+          "rank": 5,
+          "gap": 4.2,
+          "expected": 16.6,
+          "resources": 14.2,
+          "influence": 28.9,
+          "trend": 0.475,
+          "change": 1
+        },
+        {
+          "c": "TH",
+          "year": 2019,
+          "rank": 6,
+          "gap": 3.8,
+          "expected": 17,
+          "resources": 14.2,
+          "influence": 28.7,
+          "trend": 0.898,
+          "change": 1
+        }
+      ],
+      "latitude": 15.9993,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 18.7242,
+          "rank": 10,
+          "trend": -0.4399,
+          "pretrend": -0.023,
+          "m": 0,
+          "c": "TH"
+        },
+        {
+          "year": 2019,
+          "score": 20.724541,
+          "rank": 10,
+          "trend": 0.832903,
+          "pretrend": 0.041872,
+          "m": 0,
+          "c": "TH"
+        },
+        {
+          "year": 2020,
+          "score": 20.849635,
+          "rank": 9,
+          "trend": 0.125094,
+          "pretrend": 0.006036,
+          "change": 1,
+          "m": 0,
+          "c": "TH"
+        },
+        {
+          "year": 2021,
+          "score": 19.1641,
+          "rank": 10,
+          "trend": -1.6856,
+          "pretrend": -0.0808,
+          "change": -1,
+          "m": 0,
+          "c": "TH"
+        }
+      ]
+    },
+    {
+      "id": "US",
+      "name": "United States",
+      "slug": "united-states",
+      "href": "/countries/united-states/",
+      "power": [
+        {
+          "c": "US",
+          "year": 2023,
+          "gap": -1.25,
+          "expected": 81.97,
+          "resources": 85.82,
+          "influence": 74.5,
+          "trend": 0.69,
+          "change": 1,
+          "rank": 15
+        },
+        {
+          "c": "US",
+          "year": 2021,
+          "rank": 16,
+          "gap": -1.9,
+          "expected": 84.1,
+          "resources": 88.5,
+          "influence": 74.5,
+          "trend": 0.485,
+          "change": 1
+        },
+        {
+          "c": "US",
+          "year": 2020,
+          "rank": 17,
+          "gap": -2.4,
+          "expected": 84,
+          "resources": 87.1,
+          "influence": 74.8,
+          "trend": -0.611,
+          "change": -7
+        },
+        {
+          "c": "US",
+          "year": 2019,
+          "rank": 15,
+          "gap": -1.8,
+          "expected": 86.3,
+          "resources": 89.4,
+          "influence": 78.6,
+          "trend": -2.048,
+          "change": -1
+        }
+      ],
+      "latitude": 38,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 80.7222,
+          "rank": 1,
+          "trend": -1.4683,
+          "pretrend": -0.0179,
+          "m": 0,
+          "c": "US"
+        },
+        {
+          "year": 2019,
+          "score": 84.518968,
+          "rank": 1,
+          "trend": -0.032423,
+          "pretrend": -0.000383,
+          "m": 0,
+          "c": "US"
+        },
+        {
+          "year": 2020,
+          "score": 81.561981,
+          "rank": 1,
+          "trend": -2.956987,
+          "pretrend": -0.034986,
+          "m": 0,
+          "c": "US"
+        },
+        {
+          "year": 2021,
+          "score": 82.1905,
+          "rank": 1,
+          "trend": 0.6285,
+          "pretrend": 0.0077,
+          "m": 0,
+          "c": "US"
+        }
+      ]
+    },
+    {
+      "id": "VN",
+      "name": "Vietnam",
+      "slug": "vietnam",
+      "href": "/countries/vietnam/",
+      "power": [
+        {
+          "c": "VN",
+          "year": 2023,
+          "gap": 2.25,
+          "expected": 15.25,
+          "resources": 12.86,
+          "influence": 23.16,
+          "trend": 0.19,
+          "change": 0,
+          "rank": 7
+        },
+        {
+          "c": "VN",
+          "year": 2021,
+          "rank": 7,
+          "gap": 2.1,
+          "expected": 16.2,
+          "resources": 14.3,
+          "influence": 23.2,
+          "trend": -0.198,
+          "change": 0
+        },
+        {
+          "c": "VN",
+          "year": 2020,
+          "rank": 7,
+          "gap": 2.3,
+          "expected": 17,
+          "resources": 14.7,
+          "influence": 24.8,
+          "trend": 1.238,
+          "change": 2
+        },
+        {
+          "c": "VN",
+          "year": 2019,
+          "rank": 9,
+          "gap": 1,
+          "expected": 16.9,
+          "resources": 14.2,
+          "influence": 22.6,
+          "trend": 0.731,
+          "change": 1
+        }
+      ],
+      "latitude": 13.7393,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 17.4947,
+          "rank": 12,
+          "trend": -0.7807,
+          "pretrend": -0.0427,
+          "m": 0,
+          "c": "VN"
+        },
+        {
+          "year": 2019,
+          "score": 17.963205,
+          "rank": 13,
+          "trend": 0.973461,
+          "pretrend": 0.057297,
+          "m": 0,
+          "c": "VN"
+        },
+        {
+          "year": 2020,
+          "score": 19.241223,
+          "rank": 12,
+          "trend": 1.278018,
+          "pretrend": 0.071146,
+          "change": 1,
+          "m": 0,
+          "c": "VN"
+        },
+        {
+          "year": 2021,
+          "score": 18.2754,
+          "rank": 12,
+          "trend": -0.9658,
+          "pretrend": -0.0502,
+          "m": 0,
+          "c": "VN"
+        }
+      ]
+    },
+    {
+      "id": "PG",
+      "name": "Papua New Guinea",
+      "slug": "papua-new-guinea",
+      "href": "/countries/papua-new-guinea/",
+      "power": [
+        {
+          "c": "PG",
+          "year": 2023,
+          "gap": -3.49,
+          "expected": 6.79,
+          "resources": 3.62,
+          "influence": 2.92,
+          "trend": -0.44,
+          "change": 1,
+          "rank": 22
+        },
+        {
+          "c": "PG",
+          "year": 2021,
+          "rank": 23,
+          "gap": -3,
+          "expected": 6.8,
+          "resources": 4,
+          "influence": 3.5,
+          "trend": 0.514,
+          "change": 1
+        },
+        {
+          "c": "PG",
+          "year": 2020,
+          "rank": 24,
+          "gap": -3.6,
+          "expected": 7.3,
+          "resources": 4.2,
+          "influence": 3.2,
+          "trend": null,
+          "change": null
+        }, {
+          "c": "PG",
+          "year": 2019
+        }
+      ],
+      "latitude": -6.315,
+      "scores": [
+        {
+          "year": 2023,
+          "score": 3.3072,
+          "rank": 26,
+          "trend": -0.4421,
+          "pretrend": -0.1179,
+          "m": 0,
+          "c": "PG"
+        },
+        {
+          "year": 2020,
+          "score": 3.763856,
+          "rank": 26,
+          "m": 0,
+          "c": "PG"
+        },
+        {
+          "year": 2021,
+          "score": 3.7493,
+          "rank": 26,
+          "trend": -0.0146,
+          "pretrend": -0.0039,
+          "m": 0,
+          "c": "PG"
+        }
+      ]
+    }
+  ]
+}

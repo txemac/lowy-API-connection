@@ -1,4 +1,6 @@
+import json
 from copy import deepcopy
+from typing import Dict
 
 import pytest
 from alembic.command import downgrade
@@ -123,3 +125,18 @@ def new_user(
     user_repository.add_country(db_sql, user=user, country=country_cambodia)
     user_repository.add_country(db_sql, user=user, country=country_vietnam)
     return user
+
+
+@pytest.fixture
+def file_lowy_countries_url() -> Dict:
+    with open("tests/lowy_countries_url.json", "r") as file:
+        return json.loads(file.read())
+
+
+@pytest.fixture
+def mock_read_lowy_url(
+        mocker,
+        file_lowy_countries_url: Dict,
+) -> Dict:
+    return mocker.patch("src.country.infrastructure.services.lowy_country_service.__read_lowy_url",
+                        return_value=file_lowy_countries_url)
