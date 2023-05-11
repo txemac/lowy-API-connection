@@ -2,14 +2,19 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from starlette import status
 
+from src.country.infrastructure.views.country import countries_router
 from src.messages import API_TITLE
-from src.messages import API_VERSION
+from src.settings import API_VERSION
+from src.user.infrastructure.views.user import users_router
 
 # create the api
 api = FastAPI(
     title=API_TITLE,
-    version="1.0.0",
+    version=API_VERSION,
 )
+
+api.include_router(users_router, tags=["Users"], prefix="/users")
+api.include_router(countries_router, tags=["Countries"], prefix="/countries")
 
 
 # health endpoint

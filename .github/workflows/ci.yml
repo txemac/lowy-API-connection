@@ -10,6 +10,17 @@ jobs:
       matrix:
         python-version: [ 3.11.3 ]
 
+    services:
+      postgres:
+        image: postgres
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: database_test
+        ports:
+          - 5432:5432
+        options: --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
+
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python ${{ matrix.python-version }}
@@ -26,5 +37,7 @@ jobs:
           # stop the build if there are Python syntax errors or undefined names
           flake8 . --show-source --max-complexity=10 --max-line-length=128 --statistics
       - name: Test with pytest
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:5432/database_test
         run: |
           pytest -vvv

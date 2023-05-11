@@ -2,7 +2,7 @@ from starlette import status
 from starlette.testclient import TestClient
 
 from src.messages import API_TITLE
-from src.messages import API_VERSION
+from src.settings import API_VERSION
 from tests.utils import assert_dicts
 
 

@@ -1,2 +1,6 @@
 API_TITLE = "Mr. Milu API"
-API_VERSION = "0.0.1"
+
+COUNTRY_NOT_FOUND = "Country not found."
+USER_ALREADY_EXISTS = "User already exists."
+USER_CREATE_ERROR = "Error creating the new user."
+USER_NOT_FOUND = "User not found."
